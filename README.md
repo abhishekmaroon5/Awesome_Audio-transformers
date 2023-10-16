@@ -2,6 +2,10 @@
 
 A curated list of papers and resources related to Audio Transformers.
 
+## Authors
+- Abhishek(abhishekmaroon5@gmail.com)
+- Karthik(srikarthikgowda@gmail.com)
+
 ## Papers
 
 ### Paper 1: STUDY OF POSITIONAL ENCODING APPROACHES FOR AUDIO SPECTROGRAM TRANSFORMERS
